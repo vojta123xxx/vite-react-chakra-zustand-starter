@@ -1,12 +1,9 @@
 {
-	"name": "vite-react-chakra-zustand-boilerplate",
+	"name": "faktura7-frontend",
 	"type": "module",
-	"version": "0.1.0",
 	"private": true,
 	"author": {
-		"name": "Toby Scott",
-		"email": "hi@tobyscott.dev",
-		"url": "https://www.tobyscott.dev"
+		"name": "Vojtěch Cyrany"
 	},
 	"dependencies": {
 		"@chakra-ui/icons": "^2.2.4",
